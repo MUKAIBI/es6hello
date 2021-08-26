@@ -9,7 +9,7 @@ export default class Hello {
      * @returns {string}
      */
     sayHello() {
-        const hello = 'Hi, there!';
+        const hello = 'Catch me!';
         console.log(hello);
         return hello;
     }
