@@ -1,1 +1,1 @@
-alert("hello");
+(()=>{"use strict";const s=new class{constructor(){}sayHello(){const s="Hi, there!";return console.log(s),s}};alert(s.sayHello())})();
